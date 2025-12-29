@@ -24,7 +24,9 @@ To analyze Netflix’s content catalog and answer key questions such as:
 
  Tools & Technologies Used
 
-- Power BI for visualizing and Power Query for Transformation of data
+- Power BI for visualizing
+- Power Query for Transformation of data
+- DAX for measures
 
 
 ---Project Workflow
